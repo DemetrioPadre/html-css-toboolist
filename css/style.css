@@ -19,5 +19,15 @@
 
 }
 .body{
+    background-color:green;
+}
+.container{
+    width: 40%;
+    height: 500px;
+    border: 1px solid red;
     background-color: yellow;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-right: 400px;
+    border-radius: 10px;
 }
