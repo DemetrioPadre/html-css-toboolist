@@ -24,7 +24,7 @@ h1{
 
 
 .body{
-    background-color:rgb(244, 237, 237);
+    background-color:rgba(244, 237, 237, 0.342);
 }
 .container{
     width: 40%;
@@ -51,8 +51,6 @@ hr{
     display: inline-block;
     text-align: center;
     padding: 10px;
-    
-    
 }
 
 .section{
@@ -64,4 +62,29 @@ hr{
     color: grey;
     text-align: center;
     padding: 10px;
+}
+ul{
+    list-style: none;
+    margin-top: 20px;
+}
+
+li{
+    margin: 10px;
+    
+}
+
+
+.tasca{
+    font-size: small;
+}
+
+.cross{
+    color:red;
+}
+.check{
+    color: greenyellow;
+}
+main{
+    margin-top: 30px;
+    margin-left: 30px;
 }
