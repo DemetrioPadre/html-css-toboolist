@@ -3,3 +3,21 @@
     margin: 0;
     padding: 0;
 }
+
+.header{
+    background-color:red ;
+    line-height: 100px;
+    width: auto;
+    
+}
+
+#logo{
+    vertical-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    
+
+}
+.body{
+    background-color: yellow;
+}
