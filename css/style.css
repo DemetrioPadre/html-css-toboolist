@@ -14,7 +14,7 @@
 #logo{
     vertical-align: center;
     padding: 10px;
-    margin-right: 10px;
+    margin-left: 30px;
     
 
 }
@@ -30,4 +30,16 @@
     margin-top: 50px;
     margin-right: 400px;
     border-radius: 10px;
+}
+.Task{
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: blue;
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: center;
+    padding: 10px;
+    
+
 }
